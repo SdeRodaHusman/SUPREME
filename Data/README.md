@@ -2,23 +2,29 @@
 
 ## Overview
 
-This data folder contains various datasets related to the SUPREME and SRResNet projects. The datasets cover melt seasons from 2001/2002 until 2018/2019. All files are in TIF format and consist of 18 layers, all in EPSG:3031 projection.
+This data folder contains various datasets related to the SUPREME project (link follows later!). The datasets cover melt seasons from 2001/2002 until 2018/2019. All files are in TIF format and are named with the corresponding year, representing data for each melt year from July 1 to June 30. All data has an EPSG:3031 projection.
 
 ## Dataset Details
 
-### 1. SUPREME
+### 01_SUPREME
 
-The SUPREME dataset is included in this folder. It comprises data relevant to the SUPREME project for melt seasons spanning from 2001/2002 to 2018/2019.
+The SUPREME dataset is included in this folder. 
 
-### 2. SRResNet
+### 02_SRResNet
 
-The SRResNet dataset is also available in this folder. It encompasses data related to the SRResNet project for the specified melt seasons.
+The SRResNet dataset is included in this folder.
 
-### 3. SUPREME - Excluding one input feature or plugin
+### 03_SUPREME_Excluding_InputFeatures_Plugins
 
-A version of the SUPREME dataset is provided where one input feature or plugin has been excluded, i.e.,  SUPREME<sub>only encoder</sub>, SUPREME<sub>only spotlighter</sub>,  SUPREME<sub>only physical activation</sub>, SUPREME<sub>no albedo</sub>, and SUPREME<sub>no elevation</sub>. These subsets are useful for specific analyses or experiments that require variations in the input features.
+A version of the SUPREME dataset is provided where one input feature or plugin has been excluded. The following subsets are available:
 
+- SUPREME<sub>only encoder</sub>
+- SUPREME<sub>only spotlighter</sub>
+- SUPREME<sub>only physical activation</sub>
+- SUPREME<sub>no albedo</sub>
+- SUPREME<sub>no elevation</sub>
 
+These subsets are useful for specific analyses or experiments that require variations in the input features.
 
 ## Usage
 
@@ -26,5 +32,4 @@ Feel free to explore, analyze, and utilize the datasets for your research or pro
 
 ## Citation
 
-If you use these datasets in your work, kindly cite the relevant publication (XXXXXX - not published yet). 
-
+If you use these datasets in your work, kindly cite the relevant publication (link follows once the work is published!).
