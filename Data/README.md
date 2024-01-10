@@ -14,7 +14,7 @@ The SUPREME dataset is included in this folder. It comprises data relevant to th
 
 The SRResNet dataset is also available in this folder. It encompasses data related to the SRResNet project for the specified melt seasons.
 
-### 3. SUPREME Data (Excluding One Input Feature or Plugin)
+### 3. SUPREME - Excluding One Input Feature or Plugin
 
 A version of the SUPREME dataset is provided where one input feature or plugin has been excluded. This subset is useful for specific analyses or experiments that require variations in the input features.
 
