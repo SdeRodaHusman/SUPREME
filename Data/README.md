@@ -16,7 +16,7 @@ The SRResNet dataset is also available in this folder. It encompasses data relat
 
 ### 3. SUPREME - Excluding one input feature or plugin
 
-A version of the SUPREME dataset is provided where one input feature or plugin has been excluded, i.e. SUPREME$_no albedo$. This subset is useful for specific analyses or experiments that require variations in the input features.
+A version of the SUPREME dataset is provided where one input feature or plugin has been excluded, i.e.,  SUPREME<sub>only encoder</sub>, SUPREME<sub>only spotlighter</sub>,  SUPREME<sub>only physical activation</sub>, SUPREME<sub>no albedo</sub>, and SUPREME<sub>no elevation</sub>. These subsets are useful for specific analyses or experiments that require variations in the input features.
 
 
 
